@@ -1,0 +1,10 @@
+h1{
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: violet;
+}
+h2{
+    color: rgba(199, 104, 10, 0.905);
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}

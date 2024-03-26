@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+   
+    <title>Document</title>
+</head>
+<body>
+    <h2>Escolha seu curso</h2>
+    <form action="#">
+        <label for="país">Selecione seu país dos sonhos:</label>
+        <br><br>
+        <select name="país" id="país">
+            <option value="EUA">Estados Unidos</option>
+            <option value="England">Inglaterra</option>
+            <option value="Germany">Alemanha</option>
+            <option value="France">França</option>
+        </select>
+        <br><br>
+
+        <label for="curso">Digite seu curso entre os listados abaixo</label>
+        <input autocomplete="on" list="curso">
+        <datalist id="curso">
+            <option value="DEV WEB"></option>
+            <option value="ZENDESK"></option>
+            <option value="SUP TI"></option>
+        </datalist>
+    </form>
+</body>
+</html>

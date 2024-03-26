@@ -1,0 +1,26 @@
+input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cadetblue;
+    border-color: cadetblue;
+    border-radius: 12mm;
+    border-width: 3px;
+}
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#cep{
+    width: 2cm;
+}
+#idade{
+    text-align: center;
+    width: 1cm;
+}
+#name{
+    width: 4.5cm;
+}
+#email{
+    width: 4.5cm;
+}
+#password{
+    width: 4.5cm;
+}
